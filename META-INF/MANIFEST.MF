@@ -1,0 +1,756 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/images/fotos/tinavita/IMG_8436.JPG
+SHA1-Digest: Nju8HWzk1Mp1uLtn+pRHquCoA6k=
+
+Name: assets/www/images/icons_dark/pon.png
+SHA1-Digest: ONAigKwpv5cpGxZDfMaZKFM70Vk=
+
+Name: assets/www/images/fotos/mojon/IMG_4953.JPG
+SHA1-Digest: mFWCw3TvE0RNruUyOhF2/C+tqQ8=
+
+Name: assets/www/jquery-mobile/jquery.mobile-1.0.min.css
+SHA1-Digest: Ii6XGwUoi4sRKMcJF0eFKqc1gsI=
+
+Name: assets/www/images/fotos/tinavita/IMG_8444.JPG
+SHA1-Digest: tonsXhBMllTm2BummV22QadGnW8=
+
+Name: assets/www/images/icons_dark/Party.ico
+SHA1-Digest: y4/NVCo2Sll9hT2KHzUDPlDpdFI=
+
+Name: assets/www/images/fotos/40.jpg
+SHA1-Digest: gEX4kaQJYhtjBWt5rxy8jNyCbGE=
+
+Name: assets/www/images/fotos/tinavita/IMG_8398.JPG
+SHA1-Digest: J2y833onGfqctvseZMuXNKJTHjw=
+
+Name: assets/www/images/fotos/32.jpg
+SHA1-Digest: Y7oLrIkNQFOndxe2htix/oJpWqc=
+
+Name: assets/www/images/fotos/9.jpg
+SHA1-Digest: 5eYcKamiquedDv4Xq98JP87+wCw=
+
+Name: assets/www/images/icons_dark/ANEJONES.png
+SHA1-Digest: rASiQMQHKhcMXoZuUSFps7HMkvI=
+
+Name: assets/www/images/fotos/mojon/IMG_4961.JPG
+SHA1-Digest: Zo5cNICG/PrwRzWkdkxerQO6MQE=
+
+Name: assets/www/images/fotos/brava/DSCN4521.JPG
+SHA1-Digest: 4VRCOEYM4NigQcqYBNR4GJ8P2r0=
+
+Name: assets/www/images/fotos/came/IMG_5033.JPG
+SHA1-Digest: GLEH4zgnRM3FtzZOl+T9QS7L6pQ=
+
+Name: assets/www/images/fotos/milagros/IMG_4927.JPG
+SHA1-Digest: p9s75SlQeELN3RSqNqKx6JknuOw=
+
+Name: assets/www/images/fotos/iglesia/IMG_5127.JPG
+SHA1-Digest: S7lFsIj5VwbEDLVPFu51TqC2VfM=
+
+Name: assets/www/images/fotos/siachia/IMG_8568.JPG
+SHA1-Digest: hdW3AaOkdD7KzBIN7xbNiKm4sWw=
+
+Name: assets/www/images/fotos/39.jpg
+SHA1-Digest: or6cjp0yv4vb2f15q1X9Ex+7M+E=
+
+Name: assets/www/images/fotos/iglesia/IMG_5119.JPG
+SHA1-Digest: 5+GCPOMCC0VpuG5DKFUPJqz987s=
+
+Name: assets/www/images/iglesia.jpg
+SHA1-Digest: VQOPvZFuJ3LfJdegD2MXGnqMR1I=
+
+Name: assets/www/images/icons_dark/culona.jpg
+SHA1-Digest: XDm6zG4t8ZCtqUy/9boX4kRKyaM=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: Wnuoq2Et6lLyPo63DyHB8SPqlKc=
+
+Name: assets/www/images/fotos/Festival/IMG_5186.JPG
+SHA1-Digest: j8U95ghfCECsa7OuLLCjVAjdd8Q=
+
+Name: assets/www/images/fotos/panoramica/IMG_4919.JPG
+SHA1-Digest: kDksTaRgNyK2lPJnGMV7r/tQY6o=
+
+Name: assets/www/images/fotos/mojon/IMG_4968.JPG
+SHA1-Digest: sbn1O9HIH6OkzFgFLNnC0kXNNPs=
+
+Name: assets/www/img/loading.gif
+SHA1-Digest: 02ZfKS1x+eormmHEdubiqdDTUGI=
+
+Name: assets/www/jquery-mobile/images/icons-18-black.png
+SHA1-Digest: qNg1dbPEFbqF6fMjj/sKGTEH/e8=
+
+Name: assets/www/images/fotos/44.jpg
+SHA1-Digest: F/oVoelVKu0EhHWU3/NDKygoTmo=
+
+Name: resources.arsc
+SHA1-Digest: ZpU/fEwmFCI1+UOEuJKLhAVcLGw=
+
+Name: assets/www/images/fotos/Festival/IMG_5921.JPG
+SHA1-Digest: QbY4KaEzkW3ixaLJyqYs2yLsQKk=
+
+Name: assets/www/images/fotos/tinavita/IMG_8401.JPG
+SHA1-Digest: OSBdINgv2SDtvgihN9oeZZ3/UEU=
+
+Name: assets/www/images/fotos/iglesia/IMG_5112.JPG
+SHA1-Digest: hU0RlRxeMtLhM4tsHqkSz0/r2VM=
+
+Name: assets/www/images/fotos/pista.png
+SHA1-Digest: NHvjTDCBLcKOFNX9rhDGulXHfZ0=
+
+Name: assets/www/images/fotos/milagros/IMG_4931.JPG
+SHA1-Digest: QeV6ljSfFVgcuU9z4HVaL40lKdQ=
+
+Name: assets/www/images/fotos/28.jpg
+SHA1-Digest: js6w9hE50PZOCQeGEpdRNHQqqT0=
+
+Name: assets/www/images/fotos/Festival/IMG_6572.JPG
+SHA1-Digest: lqDI/YVcT98N2PFW6h8aZA+XU9o=
+
+Name: assets/www/images/icons_dark/cristo1.png
+SHA1-Digest: UrvD0k/4QNOt5ebPm6qFL80Tmwo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0gq3u4I0YHIohJ5t8UKdusmpa08=
+
+Name: assets/www/images/fotos/tinavita/IMG_8394.JPG
+SHA1-Digest: QniaYSKUXdvoaU+Dv0+b2VQTYMs=
+
+Name: assets/www/images/fotos/Festival/IMG_6440.JPG
+SHA1-Digest: 9dEyqNmzZMNURDrpYkVlQSshms8=
+
+Name: assets/www/images/fotos/19.jpg
+SHA1-Digest: 8QhF7SY9WLSfrSwLLbyblC0ZkmA=
+
+Name: assets/www/images/fotos/bolivar/IMG_8611.JPG
+SHA1-Digest: zJs/erBXl+/lvWtNhE6wPhrNDU8=
+
+Name: res/xml/config.xml
+SHA1-Digest: K3M1JoWDf3bGWQhp/bu7uL53sjg=
+
+Name: assets/www/images/fotos/Festival/IMG_5662.JPG
+SHA1-Digest: OVES8eBtoolBISNPDK51zauqnO0=
+
+Name: assets/www/images/fotos/36.jpg
+SHA1-Digest: t45qniUW2QB+9tAKOgEqIrWj+Pc=
+
+Name: assets/www/images/fotos/5.jpg
+SHA1-Digest: iYJejL8TuEdSduQhI/nWK2wgrHw=
+
+Name: assets/www/images/english.png
+SHA1-Digest: /8zlC+Acqih+FNknOnmJ2XupEJ4=
+
+Name: assets/www/images/fotos/Festival/IMG_5643.JPG
+SHA1-Digest: oEa43GlTrB8kuN79ZQREOYOsLQY=
+
+Name: assets/www/images/fotos/Festival/IMG_5891.JPG
+SHA1-Digest: 2G5oo1yMxO7nMlbQzJsyLDa6Gtw=
+
+Name: assets/www/images/fotos/caprino/IMG_8499.JPG
+SHA1-Digest: 5A0a/n4gJUpOR73Y16Yyzyw/htg=
+
+Name: assets/www/images/icons_dark/masamorra.png
+SHA1-Digest: 4KGHIlaljM2hEvNlVpnlppm1+/A=
+
+Name: assets/www/css/a.css
+SHA1-Digest: /lx2ZK+9LS4ljk0llxBd0QSOmdM=
+
+Name: assets/www/images/fotos/came/IMG_5064.JPG
+SHA1-Digest: 28e2mETsAggENpATtEqKEdtdw5Y=
+
+Name: assets/www/images/fotos/Festival/IMG_6512.JPG
+SHA1-Digest: Fh6TcF4RO5qIWMw/Zrx7/5nNlig=
+
+Name: assets/www/images/fotos/tinavita/IMG_8416.JPG
+SHA1-Digest: Ood0fGV/7n0NjpXvO0s7yHN14F0=
+
+Name: assets/www/images/icons_dark/chef.ico
+SHA1-Digest: TPuwHZDsi2o1bD04ibvQ+/+TiD4=
+
+Name: assets/www/jquery-mobile/images/icons-36-black.png
+SHA1-Digest: Vy7xszlxTTQfDYbLf2qdD3JTqac=
+
+Name: assets/www/images/icons_dark/RoO.jpg
+SHA1-Digest: MRdYOLcTpLxYT/L2vx1GntVPYXI=
+
+Name: assets/www/images/onzagaimgSSS.png
+SHA1-Digest: 2NUDzT6rw4UiNCFATtw+dgA1mKo=
+
+Name: assets/www/css/boilerplate.css
+SHA1-Digest: 9NGpXF6cbJ8yq3DxNdfnzat3AEs=
+
+Name: assets/www/images/fotos/47.jpg
+SHA1-Digest: NOfa5Fq/85+UofM4yAaYUSfw96E=
+
+Name: assets/www/images/fotos/mojon/IMG_4964.JPG
+SHA1-Digest: 8G9q2kawz/cvrSahtLl7Z6pIu/M=
+
+Name: assets/www/js/jquery-1.11.3.min.js
+SHA1-Digest: IqDpd5Hd/03MfvmzX/A3ndfeSiU=
+
+Name: assets/www/images/fotos/bar/IMG_5148.JPG
+SHA1-Digest: 3B/UaDLOzNkcj7qhX2L98RvvdYU=
+
+Name: assets/www/images/fotos/brava/DSCN4215.JPG
+SHA1-Digest: fey1As29e9VpTj06qj8z88tCxho=
+
+Name: assets/www/images/icons_dark/history.ico
+SHA1-Digest: p4sai4UdcZpcOBz8jCcS0kUfF9A=
+
+Name: assets/www/images/fotos/tinavita/IMG_8441.JPG
+SHA1-Digest: OzlyoTGE1pfopp5KIvy7Cc0TuWY=
+
+Name: assets/www/images/fotos/panoramica/IMG_5063.JPG
+SHA1-Digest: 1d6Tyj79E10xGnNAOXuwGX0uyCU=
+
+Name: assets/www/images/fotos/21.jpg
+SHA1-Digest: qnwFO+qBh371JNgFUg1i0urvjVk=
+
+Name: assets/www/images/fotos/brava/DSCN4478.JPG
+SHA1-Digest: mtl+XqEWiXdKQWwPgauOs7cyfsA=
+
+Name: assets/www/images/fotos/1.jpg
+SHA1-Digest: H2KP/uYASck0d0s0KPqTT0JDmRs=
+
+Name: assets/www/images/icons_dark/GALLO.jpg
+SHA1-Digest: QgyEBfPVqAVwuAPELotGIvJXAHw=
+
+Name: assets/www/images/icons_dark/oppo.ico
+SHA1-Digest: CcI557b/Y7TaZrA9AcANN1V60gI=
+
+Name: assets/www/images/fotos/Festival/IMG_5144.JPG
+SHA1-Digest: Gjx23IeUhskaFRwME567KXAHbBI=
+
+Name: assets/www/images/fotos/Festival/IMG_3454.JPG
+SHA1-Digest: iFxerwV+O/GUNZcofUe+ywAFHzw=
+
+Name: assets/www/images/icons_dark/galeri.png
+SHA1-Digest: Iku7pF98lY+NLKQS6rMuojPGjQw=
+
+Name: assets/www/cordova.js
+SHA1-Digest: A2UtvCF9PGhV8bloQZ2RpQ7DUto=
+
+Name: assets/www/images/fotos/mojon/IMG_4989.JPG
+SHA1-Digest: FGSEwGptR/d5/WQdbx8pnF61Xzk=
+
+Name: assets/www/images/fotos/41.jpg
+SHA1-Digest: b3HkKdoRhOnlKtSGDiPobisb5A4=
+
+Name: assets/www/images/fotos/tinavita/IMG_8437.JPG
+SHA1-Digest: pgZGVTUN+OLRzGA5MjS3UVPvtUA=
+
+Name: assets/www/images/icons_dark/camino.png
+SHA1-Digest: gfMcebt46szS/LPVlhu9XBiTk4E=
+
+Name: assets/www/js/package.json
+SHA1-Digest: LbiTaL2+kj5uCr6F/yuJ2AEqJrw=
+
+Name: assets/www/images/fotos/Festival/IMG_5525.JPG
+SHA1-Digest: 8JHiZYKjHVYzFYtLop3ktgex7Dg=
+
+Name: assets/www/images/fotos/Festival/IMG_4276.JPG
+SHA1-Digest: fzGQxN+M1inKwRI3/WXDzBV0NQg=
+
+Name: assets/www/images/fotos/mojon/IMG_4956.JPG
+SHA1-Digest: +q7ZdVC3zxryu0I7sOAvRtiiwEM=
+
+Name: assets/www/images/fotos/milagros/IMG_4934.JPG
+SHA1-Digest: vdr1HM6yoiufefRekAxthX8K1MY=
+
+Name: assets/www/images/fotos/siachia/IMG_8572.JPG
+SHA1-Digest: OuFoDc7O/eVTvMU4Y9Sob9mi2p8=
+
+Name: assets/www/jquery-mobile/images/ajax-loader.png
+SHA1-Digest: OsJZu2fGQUmOP38E3RClzRS7SBI=
+
+Name: assets/www/images/fotos/25.jpg
+SHA1-Digest: 6HwxGvoaFLIQixtM/D1f9T90XO8=
+
+Name: assets/www/images/fotos/bar/IMG_5143.JPG
+SHA1-Digest: Vf7NORS6hgh3T+/AFxmtgUI6L2I=
+
+Name: assets/www/images/guia.png
+SHA1-Digest: JP/6gJgOPQ8zU6CMuvhom2pmGKQ=
+
+Name: assets/www/images/fotos/brava/DSCN4393.JPG
+SHA1-Digest: hlVEcSJwxbLl/PJebnEodU0irpM=
+
+Name: assets/www/images/fotos/iglesia/IMG_5126.JPG
+SHA1-Digest: ms2zN0Izxr7gq0GgfTEg52H+1zs=
+
+Name: assets/www/images/fotos/brava/DSCN4249.JPG
+SHA1-Digest: xPwqp6s1ZpIIu2ZPav20gf0McZA=
+
+Name: assets/www/images/fotos/6.jpg
+SHA1-Digest: h0jTH37gj0apqmboy6BUGs8mo1A=
+
+Name: assets/www/images/icons_dark/queso.png
+SHA1-Digest: UmvSljTR3bAcRGdZJ22IEI59rto=
+
+Name: assets/www/img/a17.png
+SHA1-Digest: wn90QWdl4UQ3FfVEUvGsVJAcd4I=
+
+Name: assets/www/images/fotos/13.jpg
+SHA1-Digest: eh5/tlBg6FiE8PiqvHYpLjA0fxs=
+
+Name: assets/www/images/fotos/31.jpg
+SHA1-Digest: H40EHwZGyxqDq5c/BSHupMSvqUc=
+
+Name: assets/www/images/fotos/caprino/IMG_8471.JPG
+SHA1-Digest: SM+xllN50eZOlFefME/4s3AGcXg=
+
+Name: assets/www/images/onzagaimgSS1S.png
+SHA1-Digest: 8YxsfSlqaEvK6xpGausAN4clxVI=
+
+Name: assets/www/jquery-mobile/jquery.mobile-1.0.min.js
+SHA1-Digest: AoGkiIpfEUrDw3ri+jj+64mOBZY=
+
+Name: assets/www/images/fotos/Festival/IMG_4026.JPG
+SHA1-Digest: BYfaDh4CmuugBPbCw04FCAohEIM=
+
+Name: assets/www/images/icons_dark/fiesta.png
+SHA1-Digest: 4weNGG6wt+B1a1JCDTpi22rDGgw=
+
+Name: assets/www/images/icons_dark/mantecada.png
+SHA1-Digest: H9Bv5Xi3SxkfFV8oo1D3mU+NPbw=
+
+Name: assets/www/home.html
+SHA1-Digest: EJBho4CEi6RHnqbchmj/kKqpuPM=
+
+Name: assets/www/images/icons_dark/chorota.png
+SHA1-Digest: UZ+5REML3ozs8ShJ+XiPHDP4RDg=
+
+Name: assets/www/images/fotos/bar/IMG_5153.JPG
+SHA1-Digest: RPVz2McJyL9zk0CFRtGA8GN2jSs=
+
+Name: assets/www/images/fotos/46.jpg
+SHA1-Digest: y7dCuvhS30Y9mR+i3KDLhOOA1pQ=
+
+Name: assets/www/images/fotos/mojon/IMG_4984.JPG
+SHA1-Digest: e0BTPudF0N002EC+QwhsI6Jx5dQ=
+
+Name: assets/www/images/fotos/came/IMG_5037.JPG
+SHA1-Digest: Ih6J8I7Q6plAtfdTcP1tfVrCvck=
+
+Name: assets/www/images/icons_dark/cafe.png
+SHA1-Digest: 8H0xfnIhK/bVlPOpLbytGCqdKC4=
+
+Name: assets/www/images/fotos/20.jpg
+SHA1-Digest: QQlQpRQOmOJFCHu+6c3EB777A94=
+
+Name: assets/www/images/icons_dark/batidillo.jpg
+SHA1-Digest: PbYaW2BZ7ZFetcIHLP7ixcDh1dc=
+
+Name: assets/www/images/fotos/tinavita/IMG_8421.JPG
+SHA1-Digest: ViZRFEXMWyQwBfLVTEXeCa9O57U=
+
+Name: res/layout/activity_guia.xml
+SHA1-Digest: 0JSE3OOfp7pdmX4CBfgo3jz52gI=
+
+Name: assets/www/js/jquery.gallery.js
+SHA1-Digest: Mf9zCircm4tJ+LPSAAKmT1PQk3Y=
+
+Name: assets/www/images/fotos/mojon/IMG_4980.JPG
+SHA1-Digest: 9G42S+U6a8OJZ1jjx3/WGqjP3u8=
+
+Name: assets/www/images/fotos/bar/IMG_5147.JPG
+SHA1-Digest: h79mvkaVzRxcfH7MMBZ5H04KES0=
+
+Name: assets/www/images/fotos/caprino/IMG_8555.JPG
+SHA1-Digest: g1bVxPDcT9uhgbot2OOopQ8Nde4=
+
+Name: assets/www/images/icons_dark/Ro.jpg
+SHA1-Digest: dUs7Kt6Ahz5uk8iMS4EIgxm55Y4=
+
+Name: assets/www/images/fotos/bolivar/IMG_8608.JPG
+SHA1-Digest: N95dzvra+Xg/a86zDHlGeDImDqE=
+
+Name: assets/www/images/fotos/caprino/IMG_8493.JPG
+SHA1-Digest: UBbr6VcbYJBq0IgeP5yKEqB+0Uk=
+
+Name: assets/www/images/fotos/tinavita/IMG_8410.JPG
+SHA1-Digest: amMrQ1PGE0+F3g3gTprfarDHZko=
+
+Name: assets/www/images/fotos/18.jpg
+SHA1-Digest: p3m6YKjCP0uJYAVNrbjXPRTkKw4=
+
+Name: assets/www/images/fotos/2.jpg
+SHA1-Digest: ryB1/jZXlMYk8ZBrRtoT49tH8S8=
+
+Name: assets/www/images/icons_dark/compass.ico
+SHA1-Digest: IZC+7I8S6u4jdph96deWm5GLj/M=
+
+Name: assets/www/images/fotos/35.jpg
+SHA1-Digest: 7JSt2umIAXFS2c0upOJys4923VE=
+
+Name: assets/www/images/icons_dark/monje.jpg
+SHA1-Digest: bwQjBkAfM0aCf9QNCt/TVyO81FM=
+
+Name: assets/www/images/fotos/Festival/IMG_3374.JPG
+SHA1-Digest: NAXJMfNnU6SttOns4fkfKYZeMGU=
+
+Name: assets/www/images/fotos/Festival/IMG_4119.JPG
+SHA1-Digest: fcG/23m31GpbfOk7F0t9CbMB+vI=
+
+Name: assets/www/images/fotos/49.jpg
+SHA1-Digest: djyqRM0yVMQK5LKlmysXTkFph84=
+
+Name: assets/www/js/app.js
+SHA1-Digest: BVKcvyXhUJB/UfSXdZcQ62NpjkY=
+
+Name: assets/www/images/fotos/iglesia/IMG_5110.JPG
+SHA1-Digest: /ZnzcAOkHLBn4GDNZmKV1xKmO2c=
+
+Name: assets/www/images/fotos/union.jpg
+SHA1-Digest: 8SbrG2XGNZtlxj4V+vQ7bIH+t4w=
+
+Name: assets/www/images/fotos/bar/IMG_5149.JPG
+SHA1-Digest: evr+NoDSDrhe0YdXkyo7Z9LVPKw=
+
+Name: assets/www/images/fotos/tinavita/IMG_8446.JPG
+SHA1-Digest: 0nSXaC6aXY4WBKjozvbIm/LjhN8=
+
+Name: assets/www/images/icons_dark/map.png
+SHA1-Digest: wklqkfqXPGSLgZK6Gjj3sqEMszQ=
+
+Name: assets/www/README.txt
+SHA1-Digest: YkZPHeFB0JXCJL/M3RsJSe2nej0=
+
+Name: assets/www/images/icons_dark/calostro.png
+SHA1-Digest: aak1VpbLKGANBsIrXz4cHhVErTQ=
+
+Name: assets/www/index.html
+SHA1-Digest: gNVJ1GHw4czf37qnUCvuGQpRKsk=
+
+Name: assets/www/images/fotos/7.jpg
+SHA1-Digest: 871oKRwywgisidL2bilKs6ZPtxA=
+
+Name: assets/www/images/fotos/mojon/IMG_4939.JPG
+SHA1-Digest: TmITClJJ6RH0RJpJkWzE0jpMfI4=
+
+Name: assets/www/images/fotos/42.jpg
+SHA1-Digest: yM9ggI2LzOPKOxFGe8SUeb6Ha/k=
+
+Name: assets/www/images/fotos/caprino/IMG_8546.JPG
+SHA1-Digest: JCJSn7t5k9nTSyTE42CHg5CvGD0=
+
+Name: assets/www/images/fotos/tinavita/IMG_8426.JPG
+SHA1-Digest: iL/KURt1ZevpIIlCvpL3dXhfjI0=
+
+Name: assets/www/images/fotos/brava/DSCN4376.JPG
+SHA1-Digest: Yi6IDXEk1q89v9TlZM9Obo+KPmk=
+
+Name: assets/www/images/fotos/30.jpg
+SHA1-Digest: gZSzI082KmSHlCMbHFjg6hUML5o=
+
+Name: assets/www/images/nativos.jpg
+SHA1-Digest: pjnth/DhXzN+vQkRZbjaWkNmYCg=
+
+Name: assets/www/images/fotos/14.jpg
+SHA1-Digest: HgPr7TEVvmBc0pjsENHgB3HAYfQ=
+
+Name: assets/www/images/fotos/mojon/IMG_4986.JPG
+SHA1-Digest: zxsvxW9Gs7wVB65M0uCaAMkFMtU=
+
+Name: assets/www/images/fotos/26.jpg
+SHA1-Digest: naVRVu8/IX1DjCc/jXdLQ/unAos=
+
+Name: assets/www/images/icons_dark/queso2.png
+SHA1-Digest: pKa4gtsJuz0eFAnrCxM++JcPGek=
+
+Name: assets/www/jquery-mobile/images/icons-36-white.png
+SHA1-Digest: /qQNjRrhtfaBnuvmldrD8kPGIJ4=
+
+Name: assets/www/images/fotos/10.jpg
+SHA1-Digest: 7Y9WZWVOZU1tBEHaWqPr4xR5ed0=
+
+Name: res/menu/activity__guia.xml
+SHA1-Digest: tZhmHrSYjOajMWn2C8pTRH0eOVc=
+
+Name: assets/www/images/fotos/bar/IMG_5146.JPG
+SHA1-Digest: chyKmGAAW6oggBxG7frw8LN/bKg=
+
+Name: assets/www/images/fotos/mojon/IMG_5003.JPG
+SHA1-Digest: VoGjMdnsAPxNS2sJsVCzcnDKIYk=
+
+Name: assets/www/images/icons_dark/simon.jpg
+SHA1-Digest: /DfsC69tGvMT7FKS2oGkzfXr4ck=
+
+Name: assets/www/images/fotos/came/IMG_5047.JPG
+SHA1-Digest: Zxxwc6oalho0fa6UQwj6Fb1R+fk=
+
+Name: assets/www/images/fotos/mojon/IMG_4940.JPG
+SHA1-Digest: eLXc8jyvUvtKPr8989UrC2gpDiU=
+
+Name: assets/www/js/jssor.slider-23.1.1.mini.js
+SHA1-Digest: rqoCvTvPL5s4jDpmfwPUDjxw1GY=
+
+Name: assets/www/images/fotos/45.jpg
+SHA1-Digest: n5KwoZTbnPSIXxgDrDvMfuyUw3o=
+
+Name: assets/www/js/respond.min.js
+SHA1-Digest: iVFaJGQParngg59PvljYTS+5rGI=
+
+Name: assets/www/images/icons_dark/queso.JPG
+SHA1-Digest: rXE01Cc4gdmyZz4vQiUqAnFJfVM=
+
+Name: assets/www/images/fotos/Festival/IMG_4078.JPG
+SHA1-Digest: DhNveLkJ/lV/ab1PbixGJJXQvQw=
+
+Name: assets/www/images/icons_dark/guarapo.png
+SHA1-Digest: TnHL6sUU8rkj7NZ+bMAvgnSReW8=
+
+Name: assets/www/images/fotos/brava/DSCN4305.JPG
+SHA1-Digest: /KHLSx3kiv93fJooVE8zBsqGems=
+
+Name: assets/www/images/fotos/tinavita/IMG_8392.JPG
+SHA1-Digest: mofbxp6uWVgZCau8xgyMhC1SMz0=
+
+Name: assets/www/images/fotos/tinavita/IMG_8407.JPG
+SHA1-Digest: dUlI4V1NDPvG9dXKUzLS8mZuCbQ=
+
+Name: assets/www/images/icons_dark/indios.jpg
+SHA1-Digest: JnClCGd6HPchpvc2W/D95J/MbyU=
+
+Name: assets/www/images/fotos/iglesia/IMG_5114.JPG
+SHA1-Digest: Qw3xzpgrXf3OFD0aPGILwfD9be4=
+
+Name: assets/www/images/fotos/rio.jpg
+SHA1-Digest: 41y7eo/mnqwjOjtB+915gq+zfiI=
+
+Name: assets/www/images/icons_dark/summer.ico
+SHA1-Digest: y4h36XzoF3NUtdUAYP/KTMmRO3Q=
+
+Name: assets/www/images/icons_dark/his.png
+SHA1-Digest: lru/5Hrcr+pDNb0K5dKs5olkwVQ=
+
+Name: assets/www/images/fotos/3.jpg
+SHA1-Digest: iDjsL/2UyaQQELn0jdWXHb5dDs8=
+
+Name: assets/www/images/fotos/34.jpg
+SHA1-Digest: zC1bsywetrRLGUHMiIbq3NSP61I=
+
+Name: assets/www/images/fotos/tinavita/IMG_8418.JPG
+SHA1-Digest: 2REBl0J0ijfA+/EIsfKl5Eoaeh8=
+
+Name: assets/www/jquery-mobile/jquery-1.6.4.min.js
+SHA1-Digest: W5U4sSh6G+vWI3YI3dVHZQeewkU=
+
+Name: assets/www/images/fotos/Festival/IMG_6425.JPG
+SHA1-Digest: AIwNHx3MadMNvOsEHo3mtu6W7PU=
+
+Name: assets/www/images/fotos/mojon/IMG_4947.JPG
+SHA1-Digest: KuhrFdBpPgNyZUcmB50ef2y5R6o=
+
+Name: assets/www/images/fotos/came/IMG_5040.JPG
+SHA1-Digest: MQdLemthzr9R3yz3hyFry4Hatc8=
+
+Name: assets/www/images/fotos/brava/DSCN4281.JPG
+SHA1-Digest: iqoptbnyjLtKeAFY9FcPgtkGdZ4=
+
+Name: assets/www/images/fotos/panoramica/IMG_4918.JPG
+SHA1-Digest: /5lkYKnVDUtRtIODPc7imZtyl1k=
+
+Name: assets/www/images/fotos/caprino/IMG_8468.JPG
+SHA1-Digest: Ixe1wDg/cMh/ppKj2JAca0CLY74=
+
+Name: assets/www/images/fotos/mojon/IMG_4944.JPG
+SHA1-Digest: KMHDUxCydByKhnosOp5OoZ2lD9Y=
+
+Name: assets/www/images/fotos/tinavita/IMG_8402.JPG
+SHA1-Digest: nUmW/huthGVxiKgmGUGXCG2QANw=
+
+Name: assets/www/images/fotos/mojon/IMG_4987.JPG
+SHA1-Digest: UWozRPsmehiIuGazEWDXiQ+Od6E=
+
+Name: assets/www/images/icons_dark/masato.png
+SHA1-Digest: AEFzTHEKBKc0h5yHpkcCzx9+I+g=
+
+Name: assets/www/css/style.css
+SHA1-Digest: hkS4Ts2u8w8Zj9+a0dWeY76EBAE=
+
+Name: assets/www/images/fotos/Festival/IMG_4029.JPG
+SHA1-Digest: Z0vZSw3eAK8H+a/9F5boJ5hEefY=
+
+Name: res/layout/fragment_activity_guia.xml
+SHA1-Digest: yjgR8CQcbQkf6wupsGSwwHv5Ko4=
+
+Name: assets/www/images/fotos/mojon/IMG_4997.JPG
+SHA1-Digest: fKb9Ip29M1o0GbVtyIizceLjK5k=
+
+Name: assets/www/images/territorio.png
+SHA1-Digest: 3u6srrgokeEVcFXtd+OxdVPqIq4=
+
+Name: assets/www/images/fotos/8.jpg
+SHA1-Digest: n3dB5KEP4Sr/lISh+Cy+gfjBkVk=
+
+Name: assets/www/images/icons_dark/guane.jpg
+SHA1-Digest: xk4EpLmc0bMETlClZrD4QhCqIOA=
+
+Name: assets/www/images/fotos/33.jpg
+SHA1-Digest: h+/QkQKzC92pWyG8G/gcQTq2/lQ=
+
+Name: assets/www/images/fotos/tinavita/IMG_8412.JPG
+SHA1-Digest: LOTWYU/EnXQpgHBoSWXRM31dRMg=
+
+Name: assets/www/images/icons_dark/CEBADA.png
+SHA1-Digest: w64vc8UYyTLnfJUaJ7+4AXXl6Hc=
+
+Name: assets/www/images/icons_dark/indio.png
+SHA1-Digest: 8kKaliFes68VdAG1qURBgxFLCV0=
+
+Name: assets/www/images/icons_dark/20.jpg
+SHA1-Digest: QQlQpRQOmOJFCHu+6c3EB777A94=
+
+Name: assets/www/images/fotos/Festival/IMG_6150.JPG
+SHA1-Digest: eVgSqP2T70OzaJ96vtBUQ8k0URI=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 4vNLlMW64AEEJtgiDlmZOUOjFng=
+
+Name: assets/www/images/fotos/caprino/IMG_8529.JPG
+SHA1-Digest: 5zxnQ2ti4dkSd7Sg2EBpxFfWKkM=
+
+Name: assets/www/images/icons_dark/PONCHE.png
+SHA1-Digest: RHUrGwBmtw2YJYwc3XVG5O8Cs9s=
+
+Name: assets/www/images/fotos/bolivar/IMG_8605.JPG
+SHA1-Digest: 3V6oxaegd7RRDPyfeiVdPO442es=
+
+Name: assets/www/images/icons_dark/HUNZAHUA.jpg
+SHA1-Digest: vMZ50XLjeb2yqsbBMc+yTjLFFy4=
+
+Name: assets/www/images/fotos/iglesia/IMG_5113.JPG
+SHA1-Digest: QjNTEsLjFyLddDvZSbvUwzcH1KM=
+
+Name: assets/www/images/fotos/38.jpg
+SHA1-Digest: YkV66yVD/tdjkZvpgnWslXB+TS0=
+
+Name: assets/www/images/icons_dark/cristo3.png
+SHA1-Digest: P2Td1zimolu/kZ3sX0KxLcjoPGM=
+
+Name: assets/www/images/fotos/27.jpg
+SHA1-Digest: c6k5cu9/fLKqHAEWBclN072Q2SU=
+
+Name: assets/www/images/fotos/43.jpg
+SHA1-Digest: jRDQBHH6Ms4X30jNjRWqeVgqoMg=
+
+Name: assets/www/imagen.html
+SHA1-Digest: pQjX+iENXaOoxuf6jkccCNSvdm0=
+
+Name: assets/www/images/fotos/caprino/IMG_8547.JPG
+SHA1-Digest: RC1kpIi2F0rzYLjStRjuxWp7Iko=
+
+Name: assets/www/images/fotos/mojon/IMG_4960.JPG
+SHA1-Digest: 5vKZ+beWeZmxl0Qcfio2pZHWCoQ=
+
+Name: assets/www/images/fotos/IMG_0569.JPG
+SHA1-Digest: siGDLBW7d5ZdEOmFFHv9tTHjuho=
+
+Name: assets/www/css/demo.css
+SHA1-Digest: yg1KFNoIloyxa2tkhEtnu6MqCb4=
+
+Name: assets/www/images/icons_dark/bar.jpg
+SHA1-Digest: 0GPrpu1wX7mdCB8HUk+0h9RnDP0=
+
+Name: assets/www/images/fotos/tinavita/IMG_8423.JPG
+SHA1-Digest: 0VQRN+qW0Hp9p9UONjNqsT/bXTs=
+
+Name: assets/www/images/icons_dark/ceba.png
+SHA1-Digest: XC23uCOW7qqp6wDRTAW03Ny6Jk0=
+
+Name: assets/www/images/icons_dark/destination.ico
+SHA1-Digest: /IvX+o5DChRIZfOIpjSTCzQWo8k=
+
+Name: assets/www/images/fotos/bar/IMG_5145.JPG
+SHA1-Digest: M+YQM822yOhyqBqI8idkPHWgsHE=
+
+Name: assets/www/images/fotos/brava/DSCN4285.JPG
+SHA1-Digest: Ki16gNdcbYn6i5XRbPUcIbNKpPA=
+
+Name: assets/www/images/icons_dark/CRISTO.png
+SHA1-Digest: 1UZWPROwvTgjNrpL5QZllnQHL0Y=
+
+Name: assets/www/images/fotos/mojon/IMG_5004.JPG
+SHA1-Digest: uV5F8S005trxM88+Fipnu2Yc8NY=
+
+Name: assets/www/images/fotos/milagros/IMG_4932.JPG
+SHA1-Digest: rgiCs7yqW24CWkI8LxDOznZ8/dk=
+
+Name: assets/www/images/fotos/came/IMG_5046.JPG
+SHA1-Digest: MwGcqDtKifStISkaUubhav3dPKM=
+
+Name: assets/www/images/fotos/Festival/IMG_3122.JPG
+SHA1-Digest: 7y2vvWD+6lGieREcWFvUUbWN1D0=
+
+Name: assets/www/images/fotos/tinavita/IMG_8393.JPG
+SHA1-Digest: QjepUWaxA/JtZa/rQiQjbFoGbyE=
+
+Name: assets/www/images/fotos/Festival/IMG_6520.JPG
+SHA1-Digest: 3eDX0Oomc4KW+kdfkFBDgCWZ5wU=
+
+Name: assets/www/images/fotos/37.jpg
+SHA1-Digest: 41cxEKlig/VRYq0utY1yr8qN6os=
+
+Name: assets/www/images/fotos/siachia/IMG_8558.JPG
+SHA1-Digest: rsDUJyCkNxTnYGputIB5YaMtDXw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: lUUqMcC5W9VWnhw8536nYLIaenM=
+
+Name: assets/www/images/fotos/4.jpg
+SHA1-Digest: gsSnbkljbsvwz6jS6tY+Ztnhcx0=
+
+Name: assets/www/images/icons_dark/chicha.png
+SHA1-Digest: jUeq1b9D4PMBtSpMFa4z2TfmJpc=
+
+Name: assets/www/jquery-mobile/images/icons-18-white.png
+SHA1-Digest: tCGQR9+4nuHSGL7W4Uvpw1QJYeE=
+
+Name: assets/www/images/icons_dark/borona.png
+SHA1-Digest: 9azS2tZc3mRqzAeo1Ez/BYgLJOU=
+
+Name: assets/www/images/fotos/panoramica/IMG_4920.JPG
+SHA1-Digest: 1K++MEgx+3XH4yv+920xm5cEnfo=
+
+Name: assets/www/images/icons_dark/hacer.png
+SHA1-Digest: /O5ceORLscRaWwpnv0BQJxFSxLw=
+
+Name: assets/www/images/fotos/mojon/IMG_4948.JPG
+SHA1-Digest: YlSyoTnsGtxLePoS+BADvC8VVjc=
+
+Name: assets/www/images/icons_dark/mute.png
+SHA1-Digest: HRE/K7xTBbxh8kgkXRtt//yGiFo=
+
+Name: assets/www/images/icons_dark/text.ico
+SHA1-Digest: FlpQD7zumalwluwsJcq9/UMW+IE=
+
+Name: assets/www/img/t01.png
+SHA1-Digest: lSFZmlguSwpiIUSb9cFqdQg6H1Y=
+
+Name: assets/www/images/fotos/mojon/IMG_5010.JPG
+SHA1-Digest: T5Jt0XSSjQ2nzOOE9Isi1B5iKio=
+
+Name: assets/www/images/fotos/Festival/IMG_3942.JPG
+SHA1-Digest: XT7wbVIb+dqK8iQto1as6DZ559I=
+
+Name: assets/www/images/icons_dark/Sintitulo.jpg
+SHA1-Digest: SpaeMqvqVu0G4c95OzM5baw4zVQ=
+
+Name: assets/www/images/fotos/Festival/IMG_6535.JPG
+SHA1-Digest: UzM0kbslD6/2j2rCMirDNXyQB0g=
+
+Name: assets/www/images/fotos/bar/IMG_5151.JPG
+SHA1-Digest: MgN8QhVHzafXgIQR+jdAu6Ecy74=
+
+Name: assets/www/images/fotos/48.jpg
+SHA1-Digest: gvI+PspAGs+y0/hG9eRex2AGD6Q=
+
+Name: classes.dex
+SHA1-Digest: LAv+9UwJiKwchGnEXceFCw/mclw=
+
+Name: assets/www/images/fotos/22.jpg
+SHA1-Digest: n1rgVwJuIzJ/R2BS66Tsi5ELsY8=
+
